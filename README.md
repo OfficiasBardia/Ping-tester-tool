@@ -15,7 +15,16 @@ You can check the ping of your Linux server with this tool
 - Use on macos
 - Update in the future
 
-
+### Demo
+- demo 1
+  
+<div>
+<img align="center" alt="error" width="300"  style="border-radius: 50px;" src="/photo_demo1.jpg">
+</div>
+- demo 2
+<div>
+<img align="center" alt="error" width="300"  style="border-radius: 50px;" src="/photo_demo2.jpg">
+</div>
 
 
 
